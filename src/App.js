@@ -1,9 +1,9 @@
 import React from "react";
-import Reusable from "./Materi/Reusable/Index";
+import Rendering from "./Materi/Rendering/Index";
 function App(){
   return(
     <div className="App">
-      <Reusable/>
+      <Rendering/>
     </div>
   )
 }
