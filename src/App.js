@@ -1,9 +1,9 @@
 import React from "react";
-import Rendering from "./Materi/Rendering/Index";
+import Lifecycle from "./Materi/Lifecycle/Index";
 function App(){
   return(
     <div className="App">
-      <Rendering/>
+      <Lifecycle/>
     </div>
   )
 }
