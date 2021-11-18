@@ -1,9 +1,9 @@
 import React from "react";
-import Lifecycle from "./Materi/Lifecycle/Index";
+import Hooks from "./Materi/Hooks/index";
 function App(){
   return(
     <div className="App">
-      <Lifecycle/>
+      <Hooks/>
     </div>
   )
 }
