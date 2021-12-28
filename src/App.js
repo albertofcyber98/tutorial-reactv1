@@ -1,9 +1,10 @@
 import React from "react";
-import Hooks from "./Materi/Hooks/index";
+import Routing from "./Materi/Routing";
+
 function App(){
   return(
     <div className="App">
-      <Hooks/>
+      <Routing/>
     </div>
   )
 }
